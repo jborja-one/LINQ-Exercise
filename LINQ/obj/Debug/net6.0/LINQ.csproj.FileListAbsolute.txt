@@ -1,0 +1,15 @@
+/Users/borjas/Documents/True Coders/Repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ
+/Users/borjas/Documents/True Coders/Repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.deps.json
+/Users/borjas/Documents/True Coders/Repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.runtimeconfig.json
+/Users/borjas/Documents/True Coders/Repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.dll
+/Users/borjas/Documents/True Coders/Repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.pdb
+/Users/borjas/Documents/True Coders/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borjas/Documents/True Coders/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.AssemblyInfoInputs.cache
+/Users/borjas/Documents/True Coders/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.AssemblyInfo.cs
+/Users/borjas/Documents/True Coders/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.csproj.CoreCompileInputs.cache
+/Users/borjas/Documents/True Coders/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.sourcelink.json
+/Users/borjas/Documents/True Coders/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.dll
+/Users/borjas/Documents/True Coders/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/refint/LINQ.dll
+/Users/borjas/Documents/True Coders/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.pdb
+/Users/borjas/Documents/True Coders/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.genruntimeconfig.cache
+/Users/borjas/Documents/True Coders/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/ref/LINQ.dll
